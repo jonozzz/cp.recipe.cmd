@@ -1,0 +1,39 @@
+Changelog
+=========
+
+0.4 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
+0.3 (2011-01-16)
+----------------
+
+- add HISTORY.txt to track release notes
+  [sureshvv]
+
+0.2 (2010-12-07)
+-----------------
+
+- added buildout test/example
+  [csawyer]
+
+- Implement the "shell" option
+  [csawyer]
+
+- Get exit status of command and raise exception when it fails.
+  [csawyer]
+
+0.1b (2009-2-2)
+---------------
+
+- updated so docs are accurate! update_cmd / install_cmd
+  Thanks to kevin gill <kevin.gill@openapp.ie> for finding and fixing the bug!
+  [csawyer]
+
+0.1a:
+-----------------------
+
+- initial release
+  [csawyer]
